@@ -1,0 +1,30 @@
+MODULE: 1 (HTML)
+• Are the HTML tags and elements the same thing?
+-> No - tags are open while elements are closed
+for Eg. <p> is tag while <p> </P> is element
+• What are tags and attributes in HTML?
+-> tags are open or sometimes auto closed
+while attributes ate inside of tags for eg. align, shape, hrf, etc
+• What are void elements in HTML?
+• What are HTML Entities?
+• What are different types of lists in HTML? 
+-> types of list are OL=Ordered List, UL=unordered list, LI=List, DL=Definition list, DT=definition term and DD= Definition Description
+• What is the ‘class’ attribute in HTML?
+• What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML
+elements?
+• What are the various formatting tags in HTML?
+• How is Cell Padding different from Cell Spacing?
+• How can we club two or more rows or columns into a single row or column in an
+HTML table?
+-> by using attributes namely colspan and rowspan
+• What is the difference between a block-level element and an inline element?
+-> Block level element uses whole line while inline element uses the space only required not the whole line
+• How to create a Hyperlink in HTML?
+• What is the use of an iframe tag?
+• What is the use of a span tag? Explain with example?
+• How to insert a picture into a background image of a web page?
+• How are active links different from normal links?
+• What are the different tags to separate sections of text?
+• What is SVG?
+• What is difference between HTML and XHTML?
+• What are logical and physical tags in HTML?
